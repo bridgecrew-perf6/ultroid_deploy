@@ -1,0 +1,5 @@
+mkdir bc ; git clone -b main $REPO bc ; cd bc
+wget -q -O fu.zip $ULTPY
+unzip -qq fu.zip ; cp -rf pyUlt*/pyUlt* .
+rm -rf fu.zip pyUltroid-*
+$("$HARUKA")
