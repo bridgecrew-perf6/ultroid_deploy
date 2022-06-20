@@ -43,3 +43,9 @@ yt-dlp
 pygments
 python-Levenshtein
 fuzzywuzzy
+redis
+hiredis
+python-decouple
+python-dotenv
+emoji
+speedtest-cli
