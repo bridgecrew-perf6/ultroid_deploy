@@ -1,2 +1,3 @@
-# haruka_deploy
-Procfile_Heroku_Ultroid
+Deploy Ultroid on Heroku.
+
+Procfile method
