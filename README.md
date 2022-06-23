@@ -1,3 +1,5 @@
 Deploy Ultroid on Heroku.
 
-Procfile method
+# [Procfile method]()
+
+# Add buildpacks of ffmpeg, Heroku Apt, slugCleaner
